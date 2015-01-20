@@ -1,0 +1,2 @@
+aws_access_key = "<Your_AWS_ACCESS_KEY>"
+aws_secret_key = "<Your_AWS_SECRET_KEY>"
